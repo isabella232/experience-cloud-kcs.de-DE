@@ -1,5 +1,5 @@
 ---
-source-git-commit: e8f4ca2dd578944d4fe399074fab461de88ad247
+source-git-commit: 0c3e421beca46d9fe1952b1f98538a50697216a0
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 100%
@@ -33,9 +33,9 @@ Wenn Sie Mitglied der Adobe-Community sind und einen neuen Artikel erstellen ode
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Umfangreiche Änderungen von Adobe-Mitarbeitern
+### Umfangreiche Änderungen von Adobe-Mitarbeitenden
 
-Technische Redakteure, Programm-Manager oder Entwickler aus dem Produkt-Team einer Adobe Experience Cloud-Lösung, die technische Artikel erstellen oder zu diesen beitragen, sollten das private Repository unter `https://git.corp.adobe.com/AdobeDocs` verwenden.
+Wenn Sie technischer Redakteur, Programmmanager oder Entwickler des Produktteams für eine [!UICONTROL Adobe Experience Cloud]-Lösung sind und es Ihr Auftrag ist, technische Artikel zu erstellen oder zu diesen beizutragen, sollten Sie das private Repository unter `https://git.corp.adobe.com/AdobeDocs` verwenden.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
